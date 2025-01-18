@@ -1,5 +1,5 @@
 print("my name is raghavan, hi there!")
-a=1
+a=20
 b=2
 print(a+b)
 c= 3
